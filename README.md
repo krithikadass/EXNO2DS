@@ -125,7 +125,7 @@ sns.pairplot(df)
 
 # RESULT
 
-exp2 summary:Data Loading & Inspection: Loaded the dataset and inspected its structure, shape, and data types.
+Data Loading & Inspection: Loaded the dataset and inspected its structure, shape, and data types.
 Missing Value Check: Identified null/missing values and planned for replacement using mean, median, or mode.
 Statistical Summary: Used describe() to analyze numerical features and nunique() for unique counts.
 Target Analysis: Examined the distribution of the target variable Survived and calculated survival percentages.
